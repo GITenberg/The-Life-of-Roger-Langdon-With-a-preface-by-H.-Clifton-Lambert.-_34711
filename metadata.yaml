@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '37182'
     url: http://www.gutenberg.org/2009/agents/37182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34711#The-Life-of-Roger-Langdon-With-a-preface-by-H.-Clifton-Lambert.-
 gutenberg_issued: '2010-12-21'
 gutenberg_type: Text
 identifiers:
