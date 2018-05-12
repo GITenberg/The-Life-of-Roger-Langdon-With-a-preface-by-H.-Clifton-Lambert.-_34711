@@ -1,0 +1,36 @@
+_repo: The-Life-of-Roger-Langdon-With-a-preface-by-H.-Clifton-Lambert.-_34711
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Lambert, Henry Clifton
+    gutenberg_agent_id: '37184'
+    url: http://www.gutenberg.org/2009/agents/37184
+covers:
+- cover_type: archival
+  image_path: 34711-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Langdon, Ellen
+    gutenberg_agent_id: '37183'
+    url: http://www.gutenberg.org/2009/agents/37183
+  - agent_name: Langdon, Roger
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '37182'
+    url: http://www.gutenberg.org/2009/agents/37182
+description: ''
+gutenberg_issued: '2010-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcc 'CT'
+- !lcsh 'Langdon, Roger, 1825-1894'
+title: The Life of Roger Langdon, Told by himself. With additions by his daughter
+  Ellen.
+url: http://www.gutenberg.org/ebooks/34711
